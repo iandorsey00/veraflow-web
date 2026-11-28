@@ -1,5 +1,10 @@
 # VeraFlow Web
 
+> **VeraFlow Web 已迁移。** 后续开发和新版本发布均在 VeraFlow 主仓库进行。
+> [源码和文档](https://github.com/iandorsey00/veraflow/tree/main/apps/web) · [Web 发行版](https://github.com/iandorsey00/veraflow/releases/tag/web-v0.6.0)
+>
+> 此仓库保留原独立项目的历史记录和发行包。
+
 > **VeraFlow Web 已迁移到 [VeraFlow 的 `apps/web` 目录](https://github.com/iandorsey00/veraflow/tree/main/apps/web)。** 请从共享仓库下载 [Web 0.6.0](https://github.com/iandorsey00/veraflow/releases/tag/web-v0.6.0)。[历史版本和下载](https://github.com/iandorsey00/veraflow-web/releases)仍可在本仓库获取。
 
 [English](README.md)
