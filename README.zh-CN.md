@@ -1,5 +1,7 @@
 # VeraFlow Web
 
+> **VeraFlow Web 已迁移到 [VeraFlow 的 `apps/web` 目录](https://github.com/iandorsey00/veraflow/tree/main/apps/web)。** 请从共享仓库下载 [Web 0.6.0](https://github.com/iandorsey00/veraflow/releases/tag/web-v0.6.0)。[历史版本和下载](https://github.com/iandorsey00/veraflow-web/releases)仍可在本仓库获取。
+
 [English](README.md)
 
 将 VeraFlow 模板导出为一个可交互的 HTML 文件。用浏览器直接打开，填写一次，核对关键值，即可生成用于邮件、工单或日志的命名输出。导出的表单支持离线使用。

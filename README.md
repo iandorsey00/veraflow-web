@@ -1,5 +1,7 @@
 # VeraFlow Web
 
+> **VeraFlow Web development moved to [VeraFlow’s `apps/web`](https://github.com/iandorsey00/veraflow/tree/main/apps/web).** Download [Web 0.6.0](https://github.com/iandorsey00/veraflow/releases/tag/web-v0.6.0) from the shared repository. [Historical Web releases and downloads](https://github.com/iandorsey00/veraflow-web/releases) remain available here.
+
 [简体中文](README.zh-CN.md)
 
 Export a VeraFlow template as one interactive HTML file. Open the file in a browser, enter the case once, verify the critical values and create named outputs for email, tickets or logs.
