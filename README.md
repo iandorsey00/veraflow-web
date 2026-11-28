@@ -1,10 +1,5 @@
 # VeraFlow Web
 
-> **VeraFlow Web has moved.** Development and new releases now happen in the main VeraFlow repository.
-> [Source and documentation](https://github.com/iandorsey00/veraflow/tree/main/apps/web) · [Web releases](https://github.com/iandorsey00/veraflow/releases/tag/web-v0.6.0)
->
-> This repository contains the history and release downloads for the standalone project.
-
 > **VeraFlow Web development moved to [VeraFlow’s `apps/web`](https://github.com/iandorsey00/veraflow/tree/main/apps/web).** Download [Web 0.6.0](https://github.com/iandorsey00/veraflow/releases/tag/web-v0.6.0) from the shared repository. [Historical Web releases and downloads](https://github.com/iandorsey00/veraflow-web/releases) remain available here.
 
 [简体中文](README.zh-CN.md)
